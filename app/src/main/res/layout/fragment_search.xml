@@ -15,6 +15,21 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/textView_searchFragment_listSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#FFFFFF"
+        android:elevation="6dp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/str_list_search"
+        app:layout_constraintBottom_toTopOf="@+id/btn_searchFragment_Search"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/multiAutoCompleteTextView_searchFragment_Search" />
+
     <Button
         android:id="@+id/btn_searchFragment_Search"
         android:layout_width="wrap_content"

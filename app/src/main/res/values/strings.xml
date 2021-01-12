@@ -5,4 +5,22 @@
     <string name="str_about_me">
         علیرضا باشی برنامه نویس اندروید مشتاق یادگیری فناوری های جدید و همیشه درحال پیشرفت
     </string>
+    <string name="str_list_search">
+        ali ,
+        reza ,
+        mvvm ,
+        nav ,
+        android ,
+        alireza ,
+        mmd ,
+        mvp ,
+        kotlin ,
+        java ,
+        python ,
+        telegram ,
+        api ,
+        android 10 ,
+        android 11 ,
+        android studio
+    </string>
 </resources>
