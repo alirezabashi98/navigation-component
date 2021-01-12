@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_about_me">
+        علیرضا باشی برنامه نویس اندروید مشتاق یادگیری فناوری های جدید و همیشه درحال پیشرفت
+    </string>
+</resources>
